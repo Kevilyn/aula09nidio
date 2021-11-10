@@ -1,0 +1,5 @@
+ Intel Core i3 10100
+ Placa Mãe H410
+ Memória 8GB DDR4 3000Mhz
+ SSD Kingston A400, 240GB, Sata III, Leitura 500MBs Gravação 350MBs
+ Placa de Vídeo Palit NVIDIA GeForce GTX 1050 Ti

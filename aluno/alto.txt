@@ -1,0 +1,4 @@
+Processador: I9
+Placa mãe: Gigabyte Z390 MGAMING DDR4 LGA 1151
+Memória Principal: 2X16GB DDR4 RGB
+Memória Secundária: SSD SATA 1TB

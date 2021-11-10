@@ -1,0 +1,5 @@
+Processador Intel I5 3470 3,2ghz
+Placa mae gigabyte h61m
+memoria ram ddr3 1333mhz samsung
+ssd sata kingspec 240gb
+amd radeon hd 5670

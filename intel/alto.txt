@@ -1,0 +1,5 @@
+Processador: 		Core I7-10700
+Placa Mãe		Mãe Asus TUF GAMING Z490-PLUS
+Memoria Principal	Corsair Memória de desktop Vengeance RGB Pro 32GB (2 x 16GB) 2666 C16
+Memoria Secundaria	Samsung 970 EVO Modelo MZ-V7E500. Melhor SSD M2
+GPU			EVGA GeForce RTX 2080 Ti XC Ultra Gaming

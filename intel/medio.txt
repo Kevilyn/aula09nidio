@@ -1,0 +1,5 @@
+Processador Core i7-10700
+Placa mãe: TUF H310M PLUS
+Memória Principal: DDR4 
+Memória Secundária: SSD 512
+GPU: GTX 1050 TI

@@ -1,0 +1,4 @@
+Processador: Core i3 7100
+Placa Mãe: Asus h110m
+Memória Principal: DDR4-2133/2400
+Memória Secundária: HD: 1TB

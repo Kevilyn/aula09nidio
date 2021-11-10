@@ -1,0 +1,6 @@
+Processador: Ryzen 3 2200g
+Placa Mãe: Gigabyte A520M DS3H, AMD AM4, Micro ATX, DDR4
+Memória Principal: DDR4 8GB (2x4), marca Juhor, chip Micron, 
+2666Mhz (OC 3000mhz).
+Memória Secundária: SSD Kingston A400, 240GB, SATA,
+Leitura 500MB/s, Gravação 350MB/s - SA400S37/240G
